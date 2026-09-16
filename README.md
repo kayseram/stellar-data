@@ -1,7 +1,7 @@
 # stellar-data
 hack4dev
 
-#  Discovery Tool
+
 
 ---
 
@@ -15,7 +15,7 @@ hack4dev
 ---
 
 ##  التحدي المختار
-[Discovery Tool]
+
 ---
 
 ##  السؤال / المشكلة
